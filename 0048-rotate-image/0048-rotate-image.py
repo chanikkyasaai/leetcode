@@ -7,6 +7,8 @@ class Solution:
                 if i<j:
                     List[i][j], List[j][i] = List[j][i], List[i][j]
         
+        #then flip the  matric vertically
+        
         for i in range(len(List)):
             for j in range(len(List[0]) // 2):
                 ln = len(List[0])
