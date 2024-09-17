@@ -6,15 +6,24 @@ class ListNode:
 
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        ln = 0
-        node = head
-        while node is not None:
-            node = node.next
-            ln+=1
-        mid = math.ceil(ln/2)
-        node = head
-        for i in range(mid-1):
-            node = node.next
-        if ln%2 == 0:
-            node = node.next
-        return node
+        # brute force
+        # ln = 0
+        # node = head
+        # while node is not None:
+        #     node = node.next
+        #     ln+=1
+        # mid = math.ceil(ln/2)
+        # node = head
+        # for i in range(mid-1):
+        #     node = node.next
+        # if ln%2 == 0:
+        #     node = node.next
+        # return node
+
+        slow = head
+        fast = head
+
+        while fast and slow and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+        return slow
