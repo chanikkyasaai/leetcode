@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chanikkyasaai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/chanikkyasaai/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/chanikkyasaai/leetcode/tree/master/0048-rotate-image) |
+| [0241-different-ways-to-add-parentheses](https://github.com/chanikkyasaai/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/chanikkyasaai/leetcode/tree/master/0539-minimum-time-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/chanikkyasaai/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/chanikkyasaai/leetcode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/chanikkyasaai/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/chanikkyasaai/leetcode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/chanikkyasaai/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/chanikkyasaai/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chanikkyasaai/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/chanikkyasaai/leetcode/tree/master/0206-reverse-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/chanikkyasaai/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Counting
 |  |
 | ------- |
@@ -93,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/chanikkyasaai/leetcode/tree/master/0179-largest-number) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/chanikkyasaai/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
