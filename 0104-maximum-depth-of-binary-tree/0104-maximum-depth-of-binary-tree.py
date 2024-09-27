@@ -6,23 +6,31 @@
 #         self.right = right
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
-        traverse = deque([root])
-        depth = 0
+        # traverse = deque([root])
+        # depth = 0
+
+        # if root is None:
+        #     return 0
+
+        # while len(traverse) >0:
+        #     depth+=1
+        #     i = len(traverse)
+        #     while i >0:
+        #         node = traverse.popleft()
+        #         if node.left:
+        #             traverse.append(node.left)
+        #         if node.right: 
+        #             traverse.append(node.right)
+        #         i-=1
+
+        # return depth
 
         if root is None:
             return 0
 
-        while len(traverse) >0:
-            depth+=1
-            i = len(traverse)
-            while i >0:
-                node = traverse.popleft()
-                if node.left:
-                    traverse.append(node.left)
-                if node.right: 
-                    traverse.append(node.right)
-                i-=1
+        l = 1+ self.maxDepth(root.left)
+        r = 1+ self.maxDepth(root.right)
 
-        return depth
+        return max(l,r)
 
         
