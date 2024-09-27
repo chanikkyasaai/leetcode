@@ -19,8 +19,3 @@ class Solution:
             return 1 + leftDepth
         
         return min(leftDepth, rightDepth) + 1
-        
-        l = 1 + self.minDepth(root.left)
-        r = 1 + self.minDepth(root.right)
-
-        return min(l,r)
