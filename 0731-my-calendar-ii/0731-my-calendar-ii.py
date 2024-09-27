@@ -23,8 +23,6 @@ class MyCalendarTwo:
         return True
 
 
-
-
 # Your MyCalendarTwo object will be instantiated and called as such:
 # obj = MyCalendarTwo()
 # param_1 = obj.book(start,end)
