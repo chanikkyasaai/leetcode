@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/chanikkyasaai/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/chanikkyasaai/leetcode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/chanikkyasaai/leetcode/tree/master/0735-asteroid-collision) |
+| [0859-design-circular-deque](https://github.com/chanikkyasaai/leetcode/tree/master/0859-design-circular-deque) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/chanikkyasaai/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/chanikkyasaai/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chanikkyasaai/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/chanikkyasaai/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/chanikkyasaai/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/chanikkyasaai/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0859-design-circular-deque](https://github.com/chanikkyasaai/leetcode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/chanikkyasaai/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/chanikkyasaai/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/chanikkyasaai/leetcode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/chanikkyasaai/leetcode/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/chanikkyasaai/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chanikkyasaai/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chanikkyasaai/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/chanikkyasaai/leetcode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
