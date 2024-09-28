@@ -41,7 +41,7 @@ class MyCircularDeque:
     def getRear(self) -> int:
         if self.f == -1:
             return -1
-        return self.que[-1]
+        return self.que[self.f]
 
     def isEmpty(self) -> bool:
         if self.f == -1:
