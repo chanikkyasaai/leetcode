@@ -10,12 +10,6 @@ class Solution:
         self.top = -1
         self.valid = True
         self.inorder(root)
-        # for i in range(1, len(self.inordert)):
-        #     if self.inordert[i-1] >= self.inordert[i]:
-        #         return False
-        # return True
-        
-
         return self.valid
 
 
