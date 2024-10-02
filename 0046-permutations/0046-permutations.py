@@ -4,8 +4,7 @@ class Solution:
             return [nums]
         self.ln = len(nums)
         self.ans = []
-        num =[]
-        self.perm(nums,num, [])
+        self.perm(nums,[], [])
 
         return self.ans
 
