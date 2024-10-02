@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/chanikkyasaai/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/chanikkyasaai/leetcode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/chanikkyasaai/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/chanikkyasaai/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/chanikkyasaai/leetcode/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/chanikkyasaai/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chanikkyasaai/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/chanikkyasaai/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0043-multiply-strings](https://github.com/chanikkyasaai/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/chanikkyasaai/leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/chanikkyasaai/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/chanikkyasaai/leetcode/tree/master/0214-shortest-palindrome) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/chanikkyasaai/leetcode/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/chanikkyasaai/leetcode/tree/master/0735-asteroid-collision) |
 ## Sliding Window
 |  |
