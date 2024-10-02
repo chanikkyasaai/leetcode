@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/chanikkyasaai/leetcode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/chanikkyasaai/leetcode/tree/master/0735-asteroid-collision) |
 | [0859-design-circular-deque](https://github.com/chanikkyasaai/leetcode/tree/master/0859-design-circular-deque) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/chanikkyasaai/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/chanikkyasaai/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/chanikkyasaai/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/chanikkyasaai/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/chanikkyasaai/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/chanikkyasaai/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/chanikkyasaai/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/chanikkyasaai/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/chanikkyasaai/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/chanikkyasaai/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/chanikkyasaai/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/chanikkyasaai/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/chanikkyasaai/leetcode/tree/master/0731-my-calendar-ii) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/chanikkyasaai/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/chanikkyasaai/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2145-grid-game](https://github.com/chanikkyasaai/leetcode/tree/master/2145-grid-game) |
 ## Linked List
