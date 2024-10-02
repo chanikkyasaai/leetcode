@@ -1,0 +1,23 @@
+class Solution:
+    def permute(self, nums: List[int]) -> List[List[int]]:
+        if len(nums) == 1:
+            return [nums]
+        self.ln = len(nums)
+        self.ans = []
+        num =[]
+        self.perm(nums,num, [])
+
+        return self.ans
+
+    def perm(self,nums,num, done):
+        if len(num) == self.ln:
+                self.ans.append(num.copy())
+                return
+
+        for i in nums:
+            if i not in done:
+                num.append(i)
+                done.append(i)
+                self.perm(nums,num,done)
+                num.remove(i)
+                done.remove(i)
