@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/chanikkyasaai/leetcode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/chanikkyasaai/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/chanikkyasaai/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chanikkyasaai/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/chanikkyasaai/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/chanikkyasaai/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/chanikkyasaai/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chanikkyasaai/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chanikkyasaai/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chanikkyasaai/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
 |  |
