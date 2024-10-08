@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/chanikkyasaai/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/chanikkyasaai/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chanikkyasaai/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/chanikkyasaai/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/chanikkyasaai/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/chanikkyasaai/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/chanikkyasaai/leetcode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/chanikkyasaai/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/chanikkyasaai/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/chanikkyasaai/leetcode/tree/master/0735-asteroid-collision) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/chanikkyasaai/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chanikkyasaai/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/chanikkyasaai/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/chanikkyasaai/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chanikkyasaai/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
