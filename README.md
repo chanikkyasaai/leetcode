@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/chanikkyasaai/leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/chanikkyasaai/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chanikkyasaai/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chanikkyasaai/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/chanikkyasaai/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/chanikkyasaai/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chanikkyasaai/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/chanikkyasaai/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chanikkyasaai/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/chanikkyasaai/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/chanikkyasaai/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chanikkyasaai/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/chanikkyasaai/leetcode/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/chanikkyasaai/leetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/chanikkyasaai/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chanikkyasaai/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Memoization
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/chanikkyasaai/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/chanikkyasaai/leetcode/tree/master/0735-asteroid-collision) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/chanikkyasaai/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chanikkyasaai/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chanikkyasaai/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
