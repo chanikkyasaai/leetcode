@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/chanikkyasaai/leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/chanikkyasaai/leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/chanikkyasaai/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/chanikkyasaai/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/chanikkyasaai/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chanikkyasaai/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/chanikkyasaai/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/chanikkyasaai/leetcode/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/chanikkyasaai/leetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/chanikkyasaai/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/chanikkyasaai/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chanikkyasaai/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Memoization
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/chanikkyasaai/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/chanikkyasaai/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/chanikkyasaai/leetcode/tree/master/0735-asteroid-collision) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/chanikkyasaai/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/chanikkyasaai/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chanikkyasaai/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/chanikkyasaai/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
