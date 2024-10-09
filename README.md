@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/chanikkyasaai/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/chanikkyasaai/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/chanikkyasaai/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/chanikkyasaai/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/chanikkyasaai/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/chanikkyasaai/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chanikkyasaai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/chanikkyasaai/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/chanikkyasaai/leetcode/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/chanikkyasaai/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chanikkyasaai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chanikkyasaai/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -381,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/chanikkyasaai/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/chanikkyasaai/leetcode/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/chanikkyasaai/leetcode/tree/master/0113-path-sum-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/chanikkyasaai/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
