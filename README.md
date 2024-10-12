@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/chanikkyasaai/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2145-grid-game](https://github.com/chanikkyasaai/leetcode/tree/master/2145-grid-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/chanikkyasaai/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chanikkyasaai/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/chanikkyasaai/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/chanikkyasaai/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chanikkyasaai/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/chanikkyasaai/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/chanikkyasaai/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chanikkyasaai/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chanikkyasaai/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/chanikkyasaai/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/chanikkyasaai/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chanikkyasaai/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/chanikkyasaai/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chanikkyasaai/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/chanikkyasaai/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/chanikkyasaai/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/chanikkyasaai/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2145-grid-game](https://github.com/chanikkyasaai/leetcode/tree/master/2145-grid-game) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chanikkyasaai/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
 |  |
 | ------- |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/chanikkyasaai/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chanikkyasaai/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chanikkyasaai/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chanikkyasaai/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Memoization
 |  |
 | ------- |
@@ -404,4 +409,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/chanikkyasaai/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chanikkyasaai/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
