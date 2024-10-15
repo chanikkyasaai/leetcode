@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/chanikkyasaai/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/chanikkyasaai/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/chanikkyasaai/leetcode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/chanikkyasaai/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chanikkyasaai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/chanikkyasaai/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/chanikkyasaai/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/chanikkyasaai/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/chanikkyasaai/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/chanikkyasaai/leetcode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/chanikkyasaai/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chanikkyasaai/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/chanikkyasaai/leetcode/tree/master/0539-minimum-time-difference) |
@@ -426,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/chanikkyasaai/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chanikkyasaai/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/chanikkyasaai/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/chanikkyasaai/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
