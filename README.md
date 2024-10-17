@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/chanikkyasaai/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chanikkyasaai/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/chanikkyasaai/leetcode/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/chanikkyasaai/leetcode/tree/master/0670-maximum-swap) |
 | [3227-find-missing-and-repeated-values](https://github.com/chanikkyasaai/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/chanikkyasaai/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/chanikkyasaai/leetcode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chanikkyasaai/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/chanikkyasaai/leetcode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chanikkyasaai/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/chanikkyasaai/leetcode/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chanikkyasaai/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
