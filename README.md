@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/chanikkyasaai/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/chanikkyasaai/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2145-grid-game](https://github.com/chanikkyasaai/leetcode/tree/master/2145-grid-game) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chanikkyasaai/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2428-equal-row-and-column-pairs](https://github.com/chanikkyasaai/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chanikkyasaai/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/chanikkyasaai/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/chanikkyasaai/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/chanikkyasaai/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chanikkyasaai/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/chanikkyasaai/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
 |  |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/chanikkyasaai/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/chanikkyasaai/leetcode/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/chanikkyasaai/leetcode/tree/master/0113-path-sum-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chanikkyasaai/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -437,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/chanikkyasaai/leetcode/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chanikkyasaai/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
