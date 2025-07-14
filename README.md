@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chanikkyasaai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/chanikkyasaai/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/chanikkyasaai/leetcode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/chanikkyasaai/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/chanikkyasaai/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/chanikkyasaai/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/chanikkyasaai/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/chanikkyasaai/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/chanikkyasaai/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/chanikkyasaai/leetcode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/chanikkyasaai/leetcode/tree/master/0217-contains-duplicate) |
 | [0539-minimum-time-difference](https://github.com/chanikkyasaai/leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chanikkyasaai/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/chanikkyasaai/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chanikkyasaai/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/chanikkyasaai/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chanikkyasaai/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/chanikkyasaai/leetcode/tree/master/0217-contains-duplicate) |
 | [0432-all-oone-data-structure](https://github.com/chanikkyasaai/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/chanikkyasaai/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/chanikkyasaai/leetcode/tree/master/0567-permutation-in-string) |
