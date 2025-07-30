@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chanikkyasaai/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/chanikkyasaai/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chanikkyasaai/leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/chanikkyasaai/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/chanikkyasaai/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/chanikkyasaai/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/chanikkyasaai/leetcode/tree/master/0047-permutations-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chanikkyasaai/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/chanikkyasaai/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/chanikkyasaai/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/chanikkyasaai/leetcode/tree/master/0062-unique-paths) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/chanikkyasaai/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chanikkyasaai/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chanikkyasaai/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/chanikkyasaai/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/chanikkyasaai/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/chanikkyasaai/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/chanikkyasaai/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chanikkyasaai/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/chanikkyasaai/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chanikkyasaai/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chanikkyasaai/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chanikkyasaai/leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/chanikkyasaai/leetcode/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/chanikkyasaai/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chanikkyasaai/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
