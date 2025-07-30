@@ -3,16 +3,14 @@ class Solution:
         i = 0 
         j = k-1
         n = len(nums)
-        sm = 0 
-        for l in range(k):
-            sm+= nums[l]
+        sm = sum(nums[:k])
 
-        maxavg = -float("inf")
+        maxsum = -float("inf")
 
         while j < n:
-            maxavg = max(maxavg, sm/k)
+            maxsum = max(maxsum, sm)
             if j+1 < n:
                 sm = sm - nums[i] + nums[j+1]
             i+=1
             j+=1
-        return maxavg
+        return maxsum/k
