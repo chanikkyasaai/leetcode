@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/chanikkyasaai/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/chanikkyasaai/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/chanikkyasaai/leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/chanikkyasaai/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chanikkyasaai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/chanikkyasaai/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chanikkyasaai/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/chanikkyasaai/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/chanikkyasaai/leetcode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/chanikkyasaai/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/chanikkyasaai/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chanikkyasaai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/chanikkyasaai/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chanikkyasaai/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
