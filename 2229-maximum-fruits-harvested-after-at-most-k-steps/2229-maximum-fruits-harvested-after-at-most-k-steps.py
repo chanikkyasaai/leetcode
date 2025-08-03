@@ -3,8 +3,6 @@ class Solution:
         if not fruits:
             return 0
         
-        # Sort fruits by position
-        fruits.sort()
         n = len(fruits)
         
         max_fruits = 0
