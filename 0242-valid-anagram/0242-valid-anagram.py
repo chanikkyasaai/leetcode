@@ -18,4 +18,13 @@ class Solution:
         #         countT[i] +=1
         # return countS == countT
                 
-        return sorted(s) == sorted(t)
+        # return sorted(s) == sorted(t)
+
+        sr = [0]*26
+        tr = [0]*26
+
+        for i in s:
+            sr[ord(i)-ord('a')]+=1
+        for i in t:
+            tr[ord(i)-ord('a')]+=1
+        return sr == tr
