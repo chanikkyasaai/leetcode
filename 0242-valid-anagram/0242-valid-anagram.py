@@ -19,12 +19,18 @@ class Solution:
         # return countS == countT
                 
         # return sorted(s) == sorted(t)
-
+        if len(s)!= len(t):
+            return False
         sr = [0]*26
-        tr = [0]*26
 
-        for i in s:
-            sr[ord(i)-ord('a')]+=1
-        for i in t:
-            tr[ord(i)-ord('a')]+=1
+        for i in range(len(s)):
+            sr[ord(s[i])-ord('a')]+=1
+            sr[ord(t[i]) - ord('a')]-=1
+        
+        for i in sr:
+            if i!= 0:
+                return False
+    
+        return True
+
         return sr == tr
