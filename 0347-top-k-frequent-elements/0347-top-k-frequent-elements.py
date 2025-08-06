@@ -18,13 +18,27 @@ class Solution:
         # freq = {}
         # for i in nums:
         #     freq[i] = 1+ freq.get(i,0)
+
+        # freq = Counter(nums)
+        # heap = []
+        # for num in freq.keys():
+        #     heapq.heappush(heap, (freq[num],num))
+        #     if len(heap) > k:
+        #         heapq.heappop(heap)
+        # res = []
+        # for i in range(k):
+        #     res.append(heapq.heappop(heap)[1])
+        # return res
+
         freq = Counter(nums)
-        heap = []
-        for num in freq.keys():
-            heapq.heappush(heap, (freq[num],num))
-            if len(heap) > k:
-                heapq.heappop(heap)
+        count = [[] for i in range(len(nums)+1)]
+        for num, frq in freq.items():
+            count[frq].append(num)
+        
         res = []
-        for i in range(k):
-            res.append(heapq.heappop(heap)[1])
+        for i in range(len(count)-1,0,-1):
+            res.extend(count[i])
+            if len(res)>= k:
+                break
         return res
+            
