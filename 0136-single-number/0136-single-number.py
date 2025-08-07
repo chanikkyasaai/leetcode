@@ -9,11 +9,16 @@ class Solution:
         
         # return list(seen)[0]
 
-        nums.sort()
-        i= 0
-        while i<len(nums)-1:
-            if nums[i]==nums[i+1]:
-                i+=2
-            else:
-                return nums[i]
-        return nums[i]
+        # nums.sort()
+        # i= 0
+        # while i<len(nums)-1:
+        #     if nums[i]==nums[i+1]:
+        #         i+=2
+        #     else:
+        #         return nums[i]
+        # return nums[i]
+
+        res = 0
+        for num in nums:
+            res = res ^ num
+        return res
