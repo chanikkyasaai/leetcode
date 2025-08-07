@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chanikkyasaai/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/chanikkyasaai/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chanikkyasaai/leetcode/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/chanikkyasaai/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/chanikkyasaai/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/chanikkyasaai/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/chanikkyasaai/leetcode/tree/master/0046-permutations) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/chanikkyasaai/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/chanikkyasaai/leetcode/tree/master/0048-rotate-image) |
 | [2145-grid-game](https://github.com/chanikkyasaai/leetcode/tree/master/2145-grid-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/chanikkyasaai/leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chanikkyasaai/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chanikkyasaai/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/chanikkyasaai/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/chanikkyasaai/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/chanikkyasaai/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chanikkyasaai/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
