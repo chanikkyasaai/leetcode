@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/chanikkyasaai/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/chanikkyasaai/leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/chanikkyasaai/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/chanikkyasaai/leetcode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/chanikkyasaai/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/chanikkyasaai/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chanikkyasaai/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/chanikkyasaai/leetcode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/chanikkyasaai/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chanikkyasaai/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0342-power-of-four](https://github.com/chanikkyasaai/leetcode/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/chanikkyasaai/leetcode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/chanikkyasaai/leetcode/tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/chanikkyasaai/leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/chanikkyasaai/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/chanikkyasaai/leetcode/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chanikkyasaai/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0342-power-of-four](https://github.com/chanikkyasaai/leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/chanikkyasaai/leetcode/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/chanikkyasaai/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/chanikkyasaai/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
