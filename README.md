@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/chanikkyasaai/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chanikkyasaai/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/chanikkyasaai/leetcode/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/chanikkyasaai/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/chanikkyasaai/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/chanikkyasaai/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/chanikkyasaai/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/chanikkyasaai/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/chanikkyasaai/leetcode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/chanikkyasaai/leetcode/tree/master/0200-number-of-islands) |
 | [2145-grid-game](https://github.com/chanikkyasaai/leetcode/tree/master/2145-grid-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/chanikkyasaai/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/chanikkyasaai/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/chanikkyasaai/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chanikkyasaai/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chanikkyasaai/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/chanikkyasaai/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/chanikkyasaai/leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chanikkyasaai/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/chanikkyasaai/leetcode/tree/master/0386-lexicographical-numbers) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/chanikkyasaai/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/chanikkyasaai/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/chanikkyasaai/leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/chanikkyasaai/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/chanikkyasaai/leetcode/tree/master/0207-course-schedule) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/chanikkyasaai/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/chanikkyasaai/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -607,4 +611,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/chanikkyasaai/leetcode/tree/master/0207-course-schedule) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/chanikkyasaai/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
